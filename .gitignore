@@ -1,0 +1,30 @@
+# .NET & Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+appsettings.Development.json
+*.db
+*.db-shm
+*.db-wal
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.*
+!.env.example
+.vite/
+.tmp/
+tsconfig.app.tsbuildinfo
+tsconfig.node.tsbuildinfo
+
+# OS & Logs
+*.log
+.DS_Store
+Thumbs.db
